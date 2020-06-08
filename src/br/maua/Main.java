@@ -1,8 +1,10 @@
 package br.maua;
 
+import br.maua.models.Membro;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	Membro membro= new Membro("Jos3","Jesus");
     }
 }
